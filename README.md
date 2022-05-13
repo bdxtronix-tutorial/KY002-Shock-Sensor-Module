@@ -1,2 +1,2 @@
 # KY002-Shock-Sensor-Module
-Apabila  KY-002 Shock Sensor Module ini digerakkan, spring mechanism akan menghasilkan closed circuit dengan menghantar short high signal
+LED akan berkelip apabila sensor menerima input daripada ketukkan atau goncangan menyebabkan sensor dalam keadaan HIGH and LOW dalam satu masa apabila menerima input.
